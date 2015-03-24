@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+<?xml-stylesheet type="text/xsl" href="studentXSL.xsl" ?>
+ <!DOCTYPE students SYSTEM "Students.dtd">
+<!--
+    Document   : StudentXMLDocument.xml
+    Created on : 27 November 2009, 20:38
+    Author     : Administrator
+    Description:
+        Purpose of the document follows.
+-->
+
+<students>
+    <digest kk="kkkk">
+            <date>12121</date>
+            <date>333333333</date>
+            <date> 44444</date>
+    </digest>
+    <student pin ="11111">
+        <name>zzz</name>
+        <sname>bbb</sname>
+        <addr>
+            <city> tttt </city>
+            <home num="111" >
+                hhhhhhh
+            </home>
+        </addr>
+    </student>
+    <student pin ="2222">
+        <name>zzz11</name>
+        <sname>bbb111</sname>
+        <addr>
+            <city> tttt111 </city>
+            <home num="222" >
+                hhhhhhh111
+            </home>
+        </addr>
+    </student>
+    <student pin ="3333">
+        <name>zzz333</name>
+        <sname>bbb3333</sname>
+        <addr>
+            <city> tttt333 </city>
+            <home num="33333" >
+                hhhhhhh3333
+            </home>
+        </addr>
+    </student>
+    <student pin ="11111">
+        <fname>zzz</fname>
+        <sname>bbb</sname>
+        <addr>
+            <city> tttt </city>
+            <home num="111" >
+                hhhhhhh
+            </home>
+        </addr>
+    </student>
+</students>

@@ -1,0 +1,10 @@
+/* Cascade style sheet based on Students.dtd DTD */
+students { display: block }
+digest { display: block }
+date { display: block }
+student { display: block }
+name { display: block }
+sname { display: block }
+addr { display: block }
+city { display: block }
+home { display: block }
